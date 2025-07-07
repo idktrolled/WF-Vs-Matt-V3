@@ -109,6 +109,7 @@
 	<haxedef name="SScript" if="HSCRIPT_ALLOWED"/>
 	<haxelib name="hxvlc" if="VIDEOS_ALLOWED"/>
 	<haxelib name="hxdiscord_rpc" if="DISCORD_ALLOWED"/>
+	<haxelib name="extension-androidtools" if="android" />
 	<haxelib name="flxanimate"/>
 
 	<!-- Disable Discord IO Thread -->
